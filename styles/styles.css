@@ -37,3 +37,49 @@ img {
     height: 300px;
     border-radius: 8px;
 }
+
+h3 {
+    margin: 16px 0;
+    font-size: 24px;
+    color: #13B6EC;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;      
+    margin: 0;
+}
+
+li {
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    color: #222;
+}
+
+table {
+    margin: 32px auto;
+    border-collapse: collapse;
+    border: 1px solid  #0F172A;
+    border-radius: 8px; 
+}
+
+th, tr, td {
+    border: 1px solid #0F172A;
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+th {
+    text-align: center;
+    font-size: 16px;
+    color:  #0F172A;
+    font-family: sans-serif;
+}
